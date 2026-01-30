@@ -10,7 +10,13 @@ This repository reflects a **real-world automation architecture**, not a demo or
 
 ## 🎥 Demo (Proof of Work)
 
+<img width="720" height="424" alt="image" src="https://github.com/user-attachments/assets/654c7d8e-6957-4dc1-9b56-ff3a81b50739" />
+
+
 👉 https://drive.google.com/file/d/1H4taVKy4s_FNKvQS6sj2ww83GXfn2gI2/view?usp=sharing
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/df82c286-ba0b-48d6-b436-587fd4571a6d" />
 
 ---
 
