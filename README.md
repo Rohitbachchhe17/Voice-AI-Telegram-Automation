@@ -107,69 +107,6 @@ voice-ai-telegram-agent
 ┣ 📄 README.md # Documentation
 
 
----
-
-## ⚙️ Setup & Usage
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/Rohitbachchhe17/Voice-AI-Telegram-Automation/edit/main/README.md
-
-### 2. Import workflow into n8n
-
-Open your n8n instance
-
-Click Import workflow
-
-Select workflow.json
-
-### 3. Configure credentials
-
-Create the following credentials in n8n:
-
-Telegram Bot Token
-
-AI / TTS API key
-
-Email SMTP or Gmail credentials
-
-### 4. Activate the workflow
-
-Activate the workflow and start sending messages to your Telegram bot.
-
-### 🔐 Security & Best Practices
-
-No secrets committed to GitHub
-
-Uses n8n credential manager
-
-Telegram privacy mode enabled
-
-Clean separation of logic and credentials
-
-### 📈 Future Enhancements
-
-WhatsApp voice automation
-
-Automatic language detection
-
-Priority-based message routing
-
-Analytics dashboard
-
-Conversation history and intent tracking
-
-## 🧩 Requirements
-
-Running n8n instance
-
-Telegram bot created using BotFather
-
-Access to a Text-to-Speech (TTS) AI service
-
-SMTP or Gmail account
-
 ## 👤 Author
 
 Rohit
